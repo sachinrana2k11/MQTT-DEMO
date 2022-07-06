@@ -1,0 +1,18 @@
+{
+  "CLOUD": {
+    "MQTT_BROKER": "broker.emqx.io",
+    "MQTT_USR": "",
+    "MQTT_PWD": "",
+    "MQTT_PORT": 1883,
+    "TOPIC_PUB": "d5470e3b-174c-422b-a522-30900296ef36",
+    "TOPIC_SUB": "b67fa935-4cd9-4724-b11f-1ff49897da3e",
+    "CLIENT_ID": "TRACKER-PC",
+    "QOS": 0
+  },
+  "DEVICE_INFO": {
+    "DEVICEID": "demo-device-1",
+    "ORG_ID": "ideaxa",
+    "APP_ID": "demo-app",
+    "TIME_SENT": 5
+  }
+}
